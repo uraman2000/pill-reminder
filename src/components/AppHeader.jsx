@@ -8,8 +8,8 @@ export default function AppHeader() {
           </svg>
         </div>
         <div>
-          <h1 className="text-2xl font-medium">Pill Reminder</h1>
-          <p className="text-sm text-blue-100 opacity-80">Keep track of your medications</p>
+          <h1 className="text-2xl font-medium">Family Pill Reminder</h1>
+          <p className="text-sm text-blue-100 opacity-80">Manage medications for the whole family</p>
         </div>
       </div>
     </header>
